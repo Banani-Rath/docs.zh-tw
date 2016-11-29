@@ -1,0 +1,4 @@
+---
+translationtype: Human Translation
+---
+Visual Basic Runtime Library (位於 Microsoft.VisualBasic.dll)

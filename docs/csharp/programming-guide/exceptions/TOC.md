@@ -1,0 +1,8 @@
+# [如何：攔截非 CLS 例外狀況](how-to-catch-a-non-cls-exception.md)
+# [如何：使用 try/catch 處理例外狀況 (C# 程式設計手冊)](how-to-handle-an-exception-using-try-catch.md)
+# [例外狀況處理 (C# 程式設計手冊)](exception-handling.md)
+# [使用例外狀況 (C# 程式設計手冊)](using-exceptions.md)
+# [建立和擲回例外狀況 (C# 程式設計手冊)](creating-and-throwing-exceptions.md)
+# [編譯器所產生的例外狀況 (C# 程式設計手冊)](compiler-generated-exceptions.md)
+# [如何：使用 finally 執行清除程式碼 (C# 程式設計手冊)](how-to-execute-cleanup-code-using-finally.md)
+# [例外狀況和例外處理 (C# 程式設計手冊)](exceptions-and-exception-handling.md)
